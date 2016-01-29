@@ -111,11 +111,11 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [VR GIF](http://x627.com/vr-gif/) - GIFs in VR [[Post]](http://x627.com/a-frame-is-awesome/)
 - [Virtual Art School Tour](http://stampswebdesign.com/withersc/hud/index.html) (by [@withersc]) - Tour of the [Stamps School of Art & Design](http://stamps.umich.edu/), built using 360-degree photos with a navigation carousel
 - [360-Degree Photosphere Viewer](https://www.ideaspacevr.org/examples/aframe/aframe-360-degree-photosphere) - 360-degree photo viewer with navigation [[Code]](https://github.com/IdeaSpaceVR/aframe-360-degree-photosphere)
-- [Space-themed Ecommerce Store](http://vr.lasershop.ca/) (by [@drawvr])
+- [Space-themed E-commerce Store](http://vr.lasershop.ca/) (by [@drawvr])
 - [Tunnel Ride](http://drawvr.com/tunnel/) (by [@drawvr])
 - [Wheel Ride](http://drawvr.com/wheel/) (by [@drawvr])
 - [Equalizer Ride](http://drawvr.com/equalizer/) (by [@drawvr])
-- [Cardboard Treasure Hunt Example](https://i3games.github.io/aframe-cardboard-demo/) (by [Michael Straeubig](https://github.com/i3games/)) - An A-Frame implementation of the <a href="https://developers.google.com/cardboard/android/get-started">Google Cardboard “Treasure Hunt” demo</a> [[Code]](https://github.com/i3games/aframe-cardboard-demo/)
+- [Cardboard Treasure Hunt Example](https://i3games.github.io/aframe-cardboard-demo/) (by [Michael Straeubig](https://github.com/i3games/)) - An A-Frame implementation of the [Google Cardboard "Treasure Hunt" demo](https://developers.google.com/cardboard/android/get-started">) [[Code]](https://github.com/i3games/aframe-cardboard-demo/)
 - [Cardboard Dungeon](https://chrismwaite.github.io/cardboard-dungeon/) (by [Christopher Waite](https://twitter.com/chrismwaite/)) - A first-person dungeon crawler designed for mobile [[Code]](https://github.com/chrismwaite/cardboard-dungeon/)
 - [Where in the World Is Carmen Sandiego?](https://ybinstock.github.io/carmensandiego_360/) (by [@ybinstock]) - A scavenger hunt game inspired by the popular series [[Code]](https://github.com/ybinstock/carmensandiego_360/)
 - [Concert Hall 360°](https://ybinstock.github.io/concert_hall_360/) (by [@ybinstock]) - 360° view of an empty concert hall with Vivaldi’s _The Four Seasons_ playing in the background [[Code]](https://github.com/ybinstock/concert_hall_360)
