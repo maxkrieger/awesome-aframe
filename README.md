@@ -94,6 +94,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [aframe-react-starter](https://github.com/fouad/aframe-react-starter)
 - [React + Redux Demo (incl. switching between 2d and 3d)](https://github.com/RSpace/aframe-meetup-example)
 - [React + TweenMax Demo](http://codepen.io/cheapsteak/pen/pgbdGa?editors=001) (by [@cheapsteak])
+- [aframe-react-canvas](https://github.com/maxkrieger/aframe-react-canvas) An HTML5 canvas entity controlled by react (by [@maxkrieger])
 
 ### Scenes
 
@@ -129,3 +130,4 @@ Your contributions and suggestions are heartily welcome. Check out the guideline
 [@drawvr]: https://www.reddit.com/user/drawvr
 [@withersc]: https://www.behance.net/chriswithers
 [@daoshengmu]: https://github.com/daoshengmu
+[@maxkrieger]: https://github.com/maxkrieger
